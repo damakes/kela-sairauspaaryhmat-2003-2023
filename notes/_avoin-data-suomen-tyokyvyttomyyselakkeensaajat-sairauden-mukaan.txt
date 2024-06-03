@@ -1,0 +1,22 @@
+## Aineiston kuvaus
+- Tämä tietoaineisto liittyy Kelan tilastotietokanta Kelaston dynaamiseen raporttiin Suomen työkyvyttömyyseläkkeensaajat sairauden mukaan. Aineistossa on vuoden lopun tiedot vuodesta 2003 alkaen.
+
+- Aineistossa on tietoja työkyvyttömyyseläkkeen saajista, jotka saavat eläkettä kansan- ja/tai työeläkejärjestelmästä. Tietoja on sairauspääryhmän, sukupuolen, ikäryhmän, asuinmaan sekä asuinkunnan mukaan luokiteltuina.
+
+- Työkyvyttömyyseläkkeet sisältävät sekä täyden että osaeläkkeen suuruiset eläkkeet, toistaiseksi myönnetyt työkyvyttömyyseläkkeet, kuntoutustuet ja vuoteen 2008 asti yksilölliset varhaiseläkkeet. Mukana ovat myös ulkomaille maksetut eläkkeet. Eläkkeensaajia aineistossa ovat henkilöt, joille on maksettu tilastointikuukauden aikana tilastointikuukauteen kohdistuvaa eläkettä.
+
+Datan muuttujatiedot 
+| name            | type    | format  | description                                                                                                                                                                                                     |
+|-----------------|---------|---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| aikatyyppi      | string  | default | Aineiston aikajakso. Vuosi, vuoden lopun tilanne.                                                                                                                                                               |
+| kuukausi_nro    | integer | default | Tarkastelujakson kuukauden numero. Vuositason aineistossa vuoden viimeisen maksukuukauden numero.                                                                                                               |
+| vuosikuukausi   | integer | default | Tarkastelujakson vuosi ja kuukausi, muotoa VVVVKK. Vuositason aineistossa vuoden viimeisen kuukauden mukainen.                                                                                                  |
+| vuosi           | integer | default | Tarkastelujakson vuosi.                                                                                                                                                                                         |
+| kunta_nro       | string  | default | Kunnan numero tilastointipäivänä. Tilastokeskuksen kuntaluokittelu. Arvo ‘199’ tarkoittaa, että kuntatasolla saajien lukumäärä on alle 4 tai että kuntatieto puuttuu. Koko maan kohdalla saa arvon ‘000’.       |
+| kunta_nimi      | string  | default | Kunnan nimi tilastointipäivänä. Tilastokeskuksen kuntaluokittelu. (Huom! Ennen vuotta 2014 lakanneiden kuntien nimet näkyvät aineistossa kuntanumerona). Puuttuvan/piilotetun tiedon vakioteksti: ‘Tuntematon’. |
+| ikaryhma        | string  | default | Saajan ikäryhmä tilastointijakson lopussa, 5-vuoden välein. ‘Tieto puuttuu’ on vakioteksti ryhmän lukumäärän ollessa alle 4 tai tieto puuttuu.                                                                  |
+| sukupuoli       | string  | default | Sukupuoli: Mies Nainen ‘Tuntematon’ tarkoittaa, että kuntatasolla saajien lukumäärä samassa ryhmässä on alle 4 tai että tieto puuttuu.                                                                          |
+| asuinmaa        | string  | default | Asuinmaa. Saa arvot Suomi tai Muu maa. Puuttuvan tiedon vakioteksti: ‘Tieto puuttuu’.                                                                                                                           |
+| sairauspaaryhma | string  | default | Sairauspääryhmä. Saa arvon ‘Sairaustieto puuttuu’ ryhmän lukumäärän ollessa alle 4 tai tiedon puuttuessa.                                                                                                       |
+| saaja_lkm       | number  | default | Saajien lukumäärä tarkastelujakson aikana.                                                                                                                                                                      |
+

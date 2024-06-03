@@ -1,0 +1,312 @@
+Kunta-nro[4];Kunnan nimi;Nimitys;Kielet;Kuntakeskus;Maakunta;Seutukunta;Väkiluku[5];Kok.pinta-ala (km²)[6];Maapinta-ala (km²)[6];Väestötiheys(as./km²) 
+020;Akaa;kaupunki;suomi;Toijalan keskustaajama;Pirkanmaa;Etelä-Pirkanmaan seutukunta;16 405;314.38;293.26;55.9
+005;Alajärvi;kaupunki;suomi;Alajärven keskustaajama;Etelä-Pohjanmaa;Järviseudun seutukunta;9 113;1 056.75;1 008.77;9
+009;Alavieska;kunta;suomi;Alavieskan kirkonkylä;Pohjois-Pohjanmaa;Ylivieskan seutukunta;2 437;253.02;251.50;9.7
+010;Alavus;kaupunki;suomi;Alavuden keskustaajama;Etelä-Pohjanmaa;Kuusiokuntien seutukunta;10 933;1 151.50;1 087.24;10.1
+016;Asikkala;kunta;suomi;Vääksy;Päijät-Häme;Lahden seutukunta;7 968;755.55;563.34;14.1
+018;Askola;kunta;suomi;Askolan kirkonkylä;Uusimaa;Porvoon seutukunta;4 700;218.03;212.44;22.1
+019;Aura;kunta;suomi;Auran asemanseutu;Varsinais-Suomi;Loimaan seutukunta;3 961;95.58;95.01;41.7
+035;Brändö;kunta;ruotsi;Åva;Ahvenanmaa;Ålands skärgård;436;108.44;108.18;4
+043;Eckerö;kunta;ruotsi;Överby;Ahvenanmaa;Ålands landsbygd;942;109.18;107.72;8.7
+046;Enonkoski;kunta;suomi;Enonkosken kirkonkylä;Etelä-Savo;Savonlinnan seutukunta;1 320;419.21;305.55;4.3
+047;Enontekiö;kunta;suomi. pohjoissaame;Hetta;Lappi;Tunturi-Lapin seutukunta;1 771;8 391.31;7 953.44;0.2
+049;Espoo;kaupunki;suomi. ruotsi;Espoon keskus[7];Uusimaa;Helsingin seutukunta;314 024;330.25;312.34;1 005.4
+050;Eura;kunta;suomi;Euran keskustaajama;Satakunta;Rauman seutukunta;11 184;630.20;578.87;19.3
+051;Eurajoki;kunta;suomi;Eurajoen kirkonkylä;Satakunta;Rauman seutukunta;9 143;520.91;515.00;17.8
+052;Evijärvi;kunta;suomi;Evijärven kirkonkylä;Etelä-Pohjanmaa;Järviseudun seutukunta;2 292;390.71;354.15;6.5
+060;Finström;kunta;ruotsi;Godby;Ahvenanmaa;Ålands landsbygd;2 610;132.86;123.32;21.2
+061;Forssa;kaupunki;suomi;Forssan keskustaajama;Kanta-Häme;Forssan seutukunta;16 469;253.36;248.83;66.2
+062;Föglö;kunta;ruotsi;Degerby;Ahvenanmaa;Ålands skärgård;509;134.99;134.77;3.8
+065;Geta;kunta;ruotsi;Vestergeta;Ahvenanmaa;Ålands landsbygd;509;87.47;84.55;6
+069;Haapajärvi;kaupunki;suomi;Haapajärven keskustaajama;Pohjois-Pohjanmaa;Nivala–Haapajärven seutukunta;6 558;789.31;766.42;8.6
+071;Haapavesi;kaupunki;suomi;Haapaveden keskustaajama;Pohjois-Pohjanmaa;Haapaveden-Siikalatvan seutukunta;6 473;1 086.53;1 050.59;6.2
+072;Hailuoto;kunta;suomi;Hailuodon kirkonkylä;Pohjois-Pohjanmaa;Oulun seutukunta;948;207.35;205.66;4.6
+074;Halsua;kunta;suomi;Halsuan kirkonkylä;Keski-Pohjanmaa;Kaustisen seutukunta;1 013;428.34;413.01;2.5
+075;Hamina;kaupunki;suomi;Haminan keskustaajama;Kymenlaakso;Kotka–Haminan seutukunta;19 534;633.71;609.94;32
+076;Hammarland;kunta;ruotsi;Kattby;Ahvenanmaa;Ålands landsbygd;1 646;140.29;138.55;11.9
+077;Hankasalmi;kunta;suomi;Hankasalmen kirkonkylä;Keski-Suomi;Jyväskylän seutukunta;4 549;687.74;571.69;8
+078;Hanko;kaupunki;suomi. ruotsi;Hangon keskustaajama;Uusimaa;Raaseporin seutukunta;7 721;118.99;117.46;65.7
+079;Harjavalta;kaupunki;suomi;Harjavallan keskustaajama[8];Satakunta;Porin seutukunta;6 703;127.74;123.48;54.3
+081;Hartola;kunta;suomi;Hartolan kirkonkylä;Päijät-Häme;Lahden seutukunta;2 531;675.48;542.81;4.7
+082;Hattula;kunta;suomi;Parola;Kanta-Häme;Hämeenlinnan seutukunta;9 371;427.39;357.79;26.2
+086;Hausjärvi;kunta;suomi;Oitti;Kanta-Häme;Riihimäen seutukunta;7 998;398.77;389.42;20.5
+099;Honkajoki;kunta;suomi;;Satakunta;
+111;Heinola;kaupunki;suomi;Heinolan keskustaajama;Päijät-Häme;Lahden seutukunta;17 953;839.28;676.00;26.6
+090;Heinävesi;kunta;suomi;Heinäveden kirkonkylä;Pohjois-Karjala;Joensuun seutukunta;3 001;1 319.57;1 029.95;2.9
+091;Helsinki;kaupunki;suomi. ruotsi;Helsingin keskustaajama;Uusimaa;Helsingin seutukunta;674 500;215.08;214.19;3 149.1
+097;Hirvensalmi;kunta;suomi;Hirvensalmen kirkonkylä;Etelä-Savo;Mikkelin seutukunta;2 062;746.59;465.09;4.4
+098;Hollola;kunta;suomi;Salpakangas[9];Päijät-Häme;Lahden seutukunta;22 885;727.46;651.23;35.1
+102;Huittinen;kaupunki;suomi;Lauttakylä;Satakunta;Porin seutukunta;9 646;539.55;532.61;18.1
+103;Humppila;kunta;suomi;Humppilan asemanseutu;Kanta-Häme;Forssan seutukunta;2 125;148.61;147.96;14.4
+105;Hyrynsalmi;kunta;suomi;Hyrynsalmen kirkonkylä;Kainuu;Kehys-Kainuun seutukunta;2 063;1 521.37;1 421.25;1.5
+106;Hyvinkää;kaupunki;suomi;Hyvinkään keskustaajama;Uusimaa;Helsingin seutukunta;46 901;336.77;322.69;145.3
+108;Hämeenkyrö;kunta;suomi;Pappila[10];Pirkanmaa;Tampereen seutukunta;10 319;505.10;463.99;22.2
+109;Hämeenlinna;kaupunki;suomi;Hämeenlinnan keskustaajama;Kanta-Häme;Hämeenlinnan seutukunta;68 319;2 031.57;1 785.34;38.3
+139;Ii;kunta;suomi;Iin Hamina;Pohjois-Pohjanmaa;Oulunkaaren seutukunta;9 766;1 668.05;1 615.72;6
+140;Iisalmi;kaupunki;suomi;Iisalmen keskustaajama;Pohjois-Savo;Ylä-Savon seutukunta;20 618;872.17;762.99;27
+142;Iitti;kunta;suomi;Kausala;Päijät-Häme;Lahden seutukunta;6 444;687.09;589.79;10.9
+143;Ikaalinen;kaupunki;suomi;Ikaalisten keskustaajama;Pirkanmaa;Luoteis-Pirkanmaan seutukunta;6 850;843.40;750.48;9.1
+145;Ilmajoki;kunta;suomi;Ilmajoen kirkonkylä[11];Etelä-Pohjanmaa;Seinäjoen seutukunta;12 343;579.63;576.74;21.4
+146;Ilomantsi;kunta;suomi;Ilomantsin kirkonkylä;Pohjois-Karjala;Joensuun seutukunta;4 406;3 172.68;2 763.38;1.6
+153;Imatra;kaupunki;suomi;Mansikkala[12];Etelä-Karjala;Imatran seutukunta;24 919;191.28;154.99;160.8
+148;Inari;kunta;suomi. pohjoissaame.inarinsaame. koltansaame;Ivalo;Lappi;Pohjois-Lapin seutukunta;7 127;17 333.62;15 058.35;0.5
+149;Inkoo;kunta;ruotsi. suomi;Inkoon kirkonkylä;Uusimaa;Raaseporin seutukunta;5 379;358.00;349.89;15.4
+151;Isojoki;kunta;suomi;Isojoen kirkonkylä;Etelä-Pohjanmaa;Suupohjan seutukunta;1 814;647.43;642.38;2.8
+152;Isokyrö;kunta;suomi;Isonkyrön kirkonkylä;Etelä-Pohjanmaa;Seinäjoen seutukunta;4 357;356.91;354.13;12.3
+165;Janakkala;kunta;suomi;Turenki;Kanta-Häme;Hämeenlinnan seutukunta;16 123;586.07;547.41;29.5
+167;Joensuu;kaupunki;suomi;Joensuun keskustaajama;Pohjois-Karjala;Joensuun seutukunta;78 062;2 750.96;2 381.73;32.8
+169;Jokioinen;kunta;suomi;Jokioisten keskustaajama[13];Kanta-Häme;Forssan seutukunta;4 916;181.94;180.42;27.2
+170;Jomala;kunta;ruotsi;Prästgården[14];Ahvenanmaa;Ålands landsbygd;5 697;143.66;142.65;39.9
+171;Joroinen;kunta;suomi;Joroisten kirkonkylä;Pohjois-Savo;Varkauden seutukunta;4 590;711.75;574.90;8
+172;Joutsa;kunta;suomi;Joutsan kirkonkylä;Keski-Suomi;Joutsan seutukunta;4 079;1 066.43;867.01;4.7
+176;Juuka;kunta;suomi;Juuan kirkonkylä;Pohjois-Karjala;Joensuun seutukunta;4 259;1 846.58;1 501.70;2.8
+177;Juupajoki;kunta;suomi;Korkeakoski;Pirkanmaa;Ylä-Pirkanmaan seutukunta;1 708;274.95;258.49;6.6
+178;Juva;kunta;suomi;Juvan kirkonkylä;Etelä-Savo;Pieksämäen seutukunta;5 734;1 345.69;1 163.19;4.9
+179;Jyväskylä;kaupunki;suomi;Jyväskylän keskustaajama;Keski-Suomi;Jyväskylän seutukunta;147 746;1 466.35;1 171.02;126.2
+181;Jämijärvi;kunta;suomi;Jämijärven kirkonkylä;Satakunta;Pohjois-Satakunnan seutukunta;1 682;224.61;215.09;7.8
+182;Jämsä;kaupunki;suomi;Seppola[15];Keski-Suomi;Jämsän seutukunta;19 182;1 823.90;1 571.39;12.2
+186;Järvenpää;kaupunki;suomi;Järvenpään keskustaajama[7];Uusimaa;Helsingin seutukunta;46 490;39.93;37.54;1 238.4
+202;Kaarina;kaupunki;suomi;Kaarinan keskusta[16];Varsinais-Suomi;Turun seutukunta;36 339;151.62;150.57;241.3
+204;Kaavi;kunta;suomi;Kaavin kirkonkylä;Pohjois-Savo;Koillis-Savon seutukunta;2 628;789.60;674.07;3.9
+205;Kajaani;kaupunki;suomi;Kajaanin keskustaajama;Kainuu;Kajaanin seutukunta;36 513;2 263.82;1 834.73;19.9
+208;Kalajoki;kaupunki;suomi;Kalajoen kirkonkylä;Pohjois-Pohjanmaa;Ylivieskan seutukunta;12 372;931.05;924.13;13.4
+211;Kangasala;kaupunki;suomi;Kangasalan kirkonkylä[17];Pirkanmaa;Tampereen seutukunta;33 473;870.88;658.08;50.9
+213;Kangasniemi;kunta;suomi;Kangasniemen kirkonkylä;Etelä-Savo;Mikkelin seutukunta;5 114;1 326.75;1 068.89;4.8
+214;Kankaanpää;kaupunki;suomi;Kankaanpään keskustaajama;Satakunta;Pohjois-Satakunnan seutukunta;12 394;1 037.87;1 021.24;12.1
+216;Kannonkoski;kunta;suomi;Kannonkosken kirkonkylä;Keski-Suomi;Saarijärven–Viitasaaren seutukunta;1 217;549.88;445.01;2.7
+217;Kannus;kaupunki;suomi;Kannuksen keskustaajama;Keski-Pohjanmaa;Kokkolan seutukunta;5 246;470.34;468.04;11.2
+218;Karijoki;kunta;suomi;Karijoen kirkonkylä;Etelä-Pohjanmaa;Suupohjan seutukunta;1 188;186.35;185.58;6.4
+224;Karkkila;kaupunki;suomi;Karkkilan keskustaajama;Uusimaa;Helsingin seutukunta;8 581;255.32;242.35;35.4
+226;Karstula;kunta;suomi;Karstulan kirkonkylä;Keski-Suomi;Saarijärven–Viitasaaren seutukunta;3 625;963.20;887.07;4.1
+230;Karvia;kunta;suomi;Karvian kirkonkylä;Satakunta;Pohjois-Satakunnan seutukunta;2 216;519.90;502.22;4.4
+231;Kaskinen;kaupunki;suomi. ruotsi;Kaskisten keskustaajama;Pohjanmaa;Suupohjan rannikkoseutu;1 208;10.78;10.63;113.6
+232;Kauhajoki;kaupunki;suomi;Kauhajoen keskustaajama;Etelä-Pohjanmaa;Suupohjan seutukunta;12 618;1 315.54;1 298.99;9.7
+233;Kauhava;kaupunki;suomi;Kauhavan keskustaajama;Etelä-Pohjanmaa;Seinäjoen seutukunta;15 165;1 328.38;1 313.85;11.5
+235;Kauniainen;kaupunki;suomi. ruotsi;Kauniainen[7];Uusimaa;Helsingin seutukunta;10 270;6.00;5.89;1 743.6
+236;Kaustinen;kunta;suomi;Kaustisen kirkonkylä;Keski-Pohjanmaa;Kaustisen seutukunta;4 137;361.09;353.91;11.7
+239;Keitele;kunta;suomi;Keiteleen kirkonkylä;Pohjois-Savo;Ylä-Savon seutukunta;2 035;578.30;482.91;4.2
+240;Kemi;kaupunki;suomi;Kemin keskustaajama;Lappi;Kemi–Tornion seutukunta;19 371;102.35;95.32;203.2
+320;Kemijärvi;kaupunki;suomi;Kemijärven keskustaajama;Lappi;Itä-Lapin seutukunta;7 030;3 931.15;3 504.37;2
+241;Keminmaa;kunta;suomi;Laurila[18];Lappi;Kemi–Tornion seutukunta;7 691;648.12;627.17;12.3
+322;Kemiönsaari;kunta;ruotsi. suomi;Kemiön kirkonkylä;Varsinais-Suomi;Turunmaan seutukunta;6 462;697.80;686.90;9.4
+244;Kempele;kunta;suomi;Asemanseutu[19];Pohjois-Pohjanmaa;Oulun seutukunta;19 514;110.31;110.14;177.2
+245;Kerava;kaupunki;suomi;Keravan keskustaajama[7];Uusimaa;Helsingin seutukunta;38 211;30.79;30.63;1 247.5
+249;Keuruu;kaupunki;suomi;Keuruun keskustaajama;Keski-Suomi;Keuruun seutukunta;9 184;1 430.56;1 257.97;7.3
+250;Kihniö;kunta;suomi;Kihniön kirkonkylä;Pirkanmaa;Luoteis-Pirkanmaan seutukunta;1 749;390.50;357.22;4.9
+256;Kinnula;kunta;suomi;Kinnulan kirkonkylä;Keski-Suomi;Saarijärven–Viitasaaren seutukunta;1 523;495.73;460.20;3.3
+257;Kirkkonummi;kunta;suomi. ruotsi;Kirkkonummen keskusta;Uusimaa;Helsingin seutukunta;41 154;393.54;366.23;112.4
+260;Kitee;kaupunki;suomi;Kiteen keskustaajama;Pohjois-Karjala;Keski-Karjalan seutukunta;9 689;1 724.38;1 253.82;7.7
+261;Kittilä;kunta;suomi;Kittilän kirkonkylä;Lappi;Tunturi-Lapin seutukunta;6 822;8 263.15;8 095.28;0.8
+263;Kiuruvesi;kaupunki;suomi;Kiuruveden keskustaajama;Pohjois-Savo;Ylä-Savon seutukunta;7 475;1 422.90;1 328.17;5.6
+265;Kivijärvi;kunta;suomi;Kivijärven kirkonkylä;Keski-Suomi;Saarijärven–Viitasaaren seutukunta;1 035;599.88;483.96;2.1
+271;Kokemäki;kaupunki;suomi;Tulkkila[20];Satakunta;Porin seutukunta;6 766;531.26;480.41;14.1
+272;Kokkola;kaupunki;suomi. ruotsi;Kokkolan keskustaajama;Keski-Pohjanmaa;Kokkolan seutukunta;48 295;1 492.45;1 445.96;33.4
+273;Kolari;kunta;suomi;Kolarin kirkonkylä;Lappi;Tunturi-Lapin seutukunta;4 011;2 617.74;2 559.29;1.6
+275;Konnevesi;kunta;suomi;Konneveden kirkonkylä;Keski-Suomi;Äänekosken seutukunta;2 499;680.85;512.94;4.9
+276;Kontiolahti;kunta;suomi;Kontiolahden kirkonkylä;Pohjois-Karjala;Joensuun seutukunta;15 136;1 029.82;799.64;18.9
+280;Korsnäs;kunta;ruotsi. suomi;Korsnäsin kirkonkylä;Pohjanmaa;Vaasan seutukunta;2 015;239.80;236.03;8.5
+284;Koski Tl;kunta;suomi;Kosken Tl kirkonkylä;Varsinais-Suomi;Loimaan seutukunta;2 207;192.42;191.50;11.5
+285;Kotka;kaupunki;suomi;Kotkan keskustaajama;Kymenlaakso;Kotka–Haminan seutukunta;50 500;277.77;271.95;185.7
+286;Kouvola;kaupunki;suomi;Kouvolan keskustaajama;Kymenlaakso;Kouvolan seutukunta;78 880;2 883.29;2 557.70;30.8
+287;Kristiinankaupunki;kaupunki;ruotsi. suomi;Kristiinankaupungin keskustaajama;Pohjanmaa;Suupohjan rannikkoseutu;6 199;697.72;683.25;9.1
+288;Kruunupyy;kunta;ruotsi. suomi;Kruunupyyn kirkonkylä;Pohjanmaa;Jakobstadsregionen;6 368;752.69;712.87;8.9
+290;Kuhmo;kaupunki;suomi;Kuhmon keskustaajama;Kainuu;Kehys-Kainuun seutukunta;7 582;5 456.87;4 806.45;1.6
+291;Kuhmoinen;kunta;suomi;Kuhmoisten kirkonkylä;Pirkanmaa;Tampereen seutukunta;2 092;936.69;660.94;3.2
+295;Kumlinge;kunta;ruotsi;Kumlinge;Ahvenanmaa;Ålands skärgård;290;99.44;99.07;2.9
+297;Kuopio;kaupunki;suomi;Kuopion keskustaajama;Pohjois-Savo;Kuopion seutukunta;124 021;4 326.35;3 241.05;38.3
+300;Kuortane;kunta;suomi;Kuortaneen kirkonkylä;Etelä-Pohjanmaa;Kuusiokuntien seutukunta;3 381;484.85;462.37;7.3
+301;Kurikka;kaupunki;suomi;Kurikan keskustaajama[11];Etelä-Pohjanmaa;Seinäjoen seutukunta;19 759;1 743.91;1 724.63;11.5
+304;Kustavi;kunta;suomi;Kustavin kirkonkylä;Varsinais-Suomi;Vakka-Suomen seutukunta;949;167.67;165.84;5.7
+305;Kuusamo;kaupunki;suomi;Kuusamon keskustaajama;Pohjois-Pohjanmaa;Koillismaan seutukunta;15 019;5 808.98;4 978.57;3
+312;Kyyjärvi;kunta;suomi;Kyyjärven kirkonkylä;Keski-Suomi;Saarijärven–Viitasaaren seutukunta;1 174;469.61;448.18;2.6
+316;Kärkölä;kunta;suomi;Järvelä;Päijät-Häme;Lahden seutukunta;4 114;259.30;256.50;16
+317;Kärsämäki;kunta;suomi;Kärsämäen kirkonkylä;Pohjois-Pohjanmaa;Nivala–Haapajärven seutukunta;2 440;701.42;696.50;3.5
+318;Kökar;kunta;ruotsi;Karlby;Ahvenanmaa;Ålands skärgård;225;63.94;63.57;3.5
+398;Lahti;kaupunki;suomi;Lahden keskustaajama;Päijät-Häme;Lahden seutukunta;120 693;517.63;459.49;262.7
+399;Laihia;kunta;suomi;Laihian kirkonkylä;Pohjanmaa;Vaasan seutukunta;7 682;508.44;505.15;15.2
+400;Laitila;kaupunki;suomi;Laitilan keskustaajama;Varsinais-Suomi;Vakka-Suomen seutukunta;8 441;545.33;531.87;15.9
+407;Lapinjärvi;kunta;suomi. ruotsi;Lapinjärven kirkonkylä;Uusimaa;Loviisan seutukunta;2 449;339.31;329.89;7.4
+402;Lapinlahti;kunta;suomi;Lapinlahden kirkonkylä;Pohjois-Savo;Ylä-Savon seutukunta;8 975;1 245.16;1 096.70;8.2
+403;Lappajärvi;kunta;suomi;Lappajärven kirkonkylä;Etelä-Pohjanmaa;Järviseudun seutukunta;2 789;523.73;420.89;6.6
+405;Lappeenranta;kaupunki;suomi;Lappeenrannan keskustaajama;Etelä-Karjala;Lappeenrannan seutukunta;72 988;1 723.57;1 433.97;50.9
+408;Lapua;kaupunki;suomi;Lapuan keskustaajama;Etelä-Pohjanmaa;Seinäjoen seutukunta;14 024;750.78;737.16;19
+410;Laukaa;kunta;suomi;Laukaan kirkonkylä;Keski-Suomi;Jyväskylän seutukunta;18 762;825.60;648.51;28.9
+416;Lemi;kunta;suomi;Lemin kirkonkylä;Etelä-Karjala;Lappeenrannan seutukunta;2 862;262.48;217.96;13.1
+417;Lemland;kunta;ruotsi;Söderby;Ahvenanmaa;Ålands landsbygd;2 127;114.10;113.22;18.8
+418;Lempäälä;kunta;suomi;Lempäälän kirkonkylä[17];Pirkanmaa;Tampereen seutukunta;24 711;307.06;269.58;91.7
+420;Leppävirta;kunta;suomi;Leppävirran kirkonkylä;Pohjois-Savo;Varkauden seutukunta;9 049;1 519.64;1 135.99;8
+421;Lestijärvi;kunta;suomi;Lestijärven kirkonkylä;Keski-Pohjanmaa;Kaustisen seutukunta;682;558.85;480.02;1.4
+422;Lieksa;kaupunki;suomi;Lieksan keskustaajama;Pohjois-Karjala;Pielisen Karjalan seutukunta;10 228;4 067.70;3 417.86;3
+423;Lieto;kaupunki;suomi;Liedon kirkonkylä[16];Varsinais-Suomi;Turun seutukunta;20 637;302.56;300.54;68.7
+425;Liminka;kunta;suomi;Limingan kirkonkylä;Pohjois-Pohjanmaa;Oulun seutukunta;10 256;642.63;637.27;16.1
+426;Liperi;kunta;suomi;Liperin kirkonkylä;Pohjois-Karjala;Joensuun seutukunta;11 969;1 161.23;727.20;16.5
+444;Lohja;kaupunki;suomi. ruotsi;Lohjan keskustaajama;Uusimaa;Helsingin seutukunta;45 645;1 109.73;939.44;48.6
+430;Loimaa;kaupunki;suomi;Loimaan keskustaajama;Varsinais-Suomi;Loimaan seutukunta;15 420;851.85;848.06;18.2
+433;Loppi;kunta;suomi;Lopen kirkonkylä;Kanta-Häme;Riihimäen seutukunta;7 692;655.97;597.69;12.9
+434;Loviisa;kaupunki;suomi. ruotsi;Loviisan keskustaajama;Uusimaa;Loviisan seutukunta;14 458;845.64;819.81;17.6
+435;Luhanka;kunta;suomi;Luhangan kirkonkylä;Keski-Suomi;Joutsan seutukunta;702;313.28;214.51;3.3
+436;Lumijoki;kunta;suomi;Lumijoen kirkonkylä;Pohjois-Pohjanmaa;Oulun seutukunta;2 033;214.36;214.12;9.5
+438;Lumparland;kunta;ruotsi;Klemetsby;Ahvenanmaa;Ålands landsbygd;366;36.39;36.35;10.1
+440;Luoto;kunta;ruotsi. suomi;Holm[21];Pohjanmaa;Jakobstadsregionen;5 843;176.54;142.45;41
+441;Luumäki;kunta;suomi;Taavetti;Etelä-Karjala;Lappeenrannan seutukunta;4 396;859.83;750.09;5.9
+475;Maalahti;kunta;ruotsi. suomi;Maalahden kirkonkylä;Pohjanmaa;Vaasan seutukunta;5 456;525.83;521.75;10.5
+478;Maarianhamina;kaupunki;ruotsi;Maarianhaminan keskustaajama;Ahvenanmaa;Mariehamns stad;11 812;11.81;11.81;1 000.2
+480;Marttila;kunta;suomi;Marttilan kirkonkylä;Varsinais-Suomi;Loimaan seutukunta;1 930;195.99;195.31;9.9
+481;Masku;kunta;suomi;Maskun kirkonkylä[16];Varsinais-Suomi;Turun seutukunta;9 619;176.00;174.89;55
+483;Merijärvi;kunta;suomi;Merijärven kirkonkylä;Pohjois-Pohjanmaa;Ylivieskan seutukunta;1 055;231.63;229.97;4.6
+484;Merikarvia;kunta;suomi;Merikarvian kirkonkylä;Satakunta;Porin seutukunta;2 966;450.74;446.16;6.6
+489;Miehikkälä;kunta;suomi;Miehikkälän kirkonkylä;Kymenlaakso;Kotka–Haminan seutukunta;1 752;440.37;422.51;4.1
+491;Mikkeli;kaupunki;suomi;Mikkelin keskustaajama;Etelä-Savo;Mikkelin seutukunta;51 919;3 229.57;2 548.18;20.4
+494;Muhos;kunta;suomi;Muhoksen kirkonkylä;Pohjois-Pohjanmaa;Oulun seutukunta;8 827;798.10;784.58;11.3
+495;Multia;kunta;suomi;Multian kirkonkylä;Keski-Suomi;Keuruun seutukunta;1 430;765.63;733.24;2
+498;Muonio;kunta;suomi;Muonion kirkonkylä;Lappi;Tunturi-Lapin seutukunta;2 325;2 037.78;1 904.05;1.2
+499;Mustasaari;kunta;ruotsi. suomi;Sepänkylä[22];Pohjanmaa;Vaasan seutukunta;19 763;866.56;849.17;23.3
+500;Muurame;kunta;suomi;Muuramen kirkonkylä;Keski-Suomi;Jyväskylän seutukunta;10 551;194.06;144.06;73.2
+503;Mynämäki;kunta;suomi;Mynämäen kirkonkylä;Varsinais-Suomi;Turun seutukunta;7 515;522.32;519.82;14.5
+504;Myrskylä;kunta;suomi. ruotsi;Myrskylän kirkonkylä;Uusimaa;Porvoon seutukunta;1 715;206.35;200.44;8.6
+505;Mäntsälä;kunta;suomi;Mäntsälän kirkonkylä;Uusimaa;Helsingin seutukunta;20 957;596.11;580.85;36.1
+508;Mänttä-Vilppula;kaupunki;suomi;Mäntän keskustaajama;Pirkanmaa;Ylä-Pirkanmaan seutukunta;9 271;657.09;534.84;17.3
+507;Mäntyharju;kunta;suomi;Mäntyharjun asemanseutu;Etelä-Savo;Mikkelin seutukunta;5 522;1 210.98;981.21;5.6
+529;Naantali;kaupunki;suomi;Naantalin keskustaajama[16];Varsinais-Suomi;Turun seutukunta;19 999;316.43;312.57;64
+531;Nakkila;kunta;suomi;Nakkilan kirkonkylä[8];Satakunta;Porin seutukunta;4 966;184.88;182.93;27.1
+535;Nivala;kaupunki;suomi;Nivalan keskustaajama;Pohjois-Pohjanmaa;Nivala–Haapajärven seutukunta;10 454;536.24;527.18;19.8
+536;Nokia;kaupunki;suomi;Nokian keskustaajama[17];Pirkanmaa;Tampereen seutukunta;35 647;347.84;288.31;123.6
+538;Nousiainen;kunta;suomi;Nummi;Varsinais-Suomi;Turun seutukunta;4 695;199.49;198.93;23.6
+541;Nurmes;kaupunki;suomi;Nurmeksen keskustaajama;Pohjois-Karjala;Pielisen Karjalan seutukunta;9 130;2 692.84;2 401.37;3.8
+543;Nurmijärvi;kunta;suomi;Nurmijärven kirkonkylä;Uusimaa;Helsingin seutukunta;44 785;367.26;361.90;123.7
+545;Närpiö;kaupunki;ruotsi. suomi;Närpiön keskustaajama;Pohjanmaa;Suupohjan rannikkoseutu;9 621;985.48;977.82;9.8
+560;Orimattila;kaupunki;suomi;Orimattilan keskustaajama;Päijät-Häme;Lahden seutukunta;15 669;814.01;785.26;20
+561;Oripää;kunta;suomi;Oripään kirkonkylä;Varsinais-Suomi;Loimaan seutukunta;1 315;117.83;117.75;11.2
+562;Orivesi;kaupunki;suomi;Oriveden keskustaajama;Pirkanmaa;Tampereen seutukunta;8 839;960.08;799.63;11.1
+563;Oulainen;kaupunki;suomi;Oulaisten keskustaajama;Pohjois-Pohjanmaa;Ylivieskan seutukunta;6 978;597.54;587.84;11.9
+564;Oulu;kaupunki;suomi;Oulun keskustaajama;Pohjois-Pohjanmaa;Oulun seutukunta;214 633;3 052.77;2 972.45;72.2
+309;Outokumpu;kaupunki;suomi;Outokummun keskustaajama;Pohjois-Karjala;Joensuun seutukunta;6 409;584.06;445.86;14.4
+576;Padasjoki;kunta;suomi;Padasjoen kirkonkylä;Päijät-Häme;Lahden seutukunta;2 726;729.81;523.09;5.2
+577;Paimio;kaupunki;suomi;Vista[23];Varsinais-Suomi;Turun seutukunta;11 236;240.04;238.51;47.1
+578;Paltamo;kunta;suomi;Paltamon kirkonkylä;Kainuu;Kajaanin seutukunta;3 037;1 139.74;918.79;3.3
+445;Parainen;kaupunki;ruotsi. suomi;Paraisten keskustaajama;Varsinais-Suomi;Turunmaan seutukunta;14 999;893.90;884.04;17
+580;Parikkala;kunta;suomi;Parikkalan kirkonkylä;Etelä-Karjala;Imatran seutukunta;4 366;760.71;591.91;7.4
+581;Parkano;kaupunki;suomi;Parkanon keskustaajama;Pirkanmaa;Luoteis-Pirkanmaan seutukunta;6 123;909.57;853.19;7.2
+599;Pedersören kunta;kunta;ruotsi. suomi;Pännäinen;Pohjanmaa;Jakobstadsregionen;11 225;826.05;794.26;14.1
+583;Pelkosenniemi;kunta;suomi;Pelkosenniemen kirkonkylä;Lappi;Itä-Lapin seutukunta;912;1 881.82;1 836.40;0.5
+854;Pello;kunta;suomi;Pellon kirkonkylä;Lappi;Torniolaakson seutukunta;3 253;1 863.72;1 737.73;1.9
+584;Perho;kunta;suomi;Perhon kirkonkylä;Keski-Pohjanmaa;Kaustisen seutukunta;2 578;775.19;747.87;3.4
+588;Pertunmaa;kunta;suomi;Pertunmaan kirkonkylä;Etelä-Savo;Mikkelin seutukunta;1 577;454.18;374.43;4.2
+592;Petäjävesi;kunta;suomi;Petäjäveden kirkonkylä;Keski-Suomi;Jyväskylän seutukunta;3 596;495.41;456.42;7.9
+593;Pieksämäki;kaupunki;suomi;Pieksämäen keskustaajama;Etelä-Savo;Pieksämäen seutukunta;17 050;1 836.24;1 569.03;10.9
+595;Pielavesi;kunta;suomi;Pielaveden kirkonkylä;Pohjois-Savo;Ylä-Savon seutukunta;4 073;1 406.51;1 153.23;3.5
+598;Pietarsaari;kaupunki;ruotsi. suomi;Pietarsaaren keskustaajama;Pohjanmaa;Jakobstadsregionen;19 475;91.88;88.45;220.2
+601;Pihtipudas;kunta;suomi;Pihtiputaan kirkonkylä;Keski-Suomi;Saarijärven–Viitasaaren seutukunta;3 739;1 247.50;1 074.92;3.5
+604;Pirkkala;kunta;suomi;Naistenmatka[17];Pirkanmaa;Tampereen seutukunta;20 763;103.97;81.42;255
+607;Polvijärvi;kunta;suomi;Polvijärven kirkonkylä;Pohjois-Karjala;Joensuun seutukunta;4 064;958.33;804.91;5
+608;Pomarkku;kunta;suomi;Pomarkun kirkonkylä;Satakunta;Porin seutukunta;1 943;332.05;301.19;6.5
+609;Pori;kaupunki;suomi;Porin keskustaajama;Satakunta;Porin seutukunta;83 106;1 217.99;1 156.16;71.9
+611;Pornainen;kunta;suomi;Pornaisten kirkonkylä;Uusimaa;Helsingin seutukunta;4 973;150.09;146.53;33.9
+638;Porvoo;kaupunki;suomi. ruotsi;Porvoon keskustaajama;Uusimaa;Porvoon seutukunta;51 289;664.72;654.56;78.4
+614;Posio;kunta;suomi;Ahola;Lappi;Itä-Lapin seutukunta;2 923;3 544.65;3 039.73;1
+615;Pudasjärvi;kaupunki;suomi;Kurenalus;Pohjois-Pohjanmaa;Oulunkaaren seutukunta;7 479;5 867.36;5 638.35;1.3
+616;Pukkila;kunta;suomi;Pukkilan kirkonkylä;Uusimaa;Porvoon seutukunta;1 781;145.94;145.09;12.3
+619;Punkalaidun;kunta;suomi;Punkalaitumen kirkonkylä;Pirkanmaa;Lounais-Pirkanmaan seutukunta;2 650;364.05;361.10;7.3
+620;Puolanka;kunta;suomi;Puolangan kirkonkylä;Kainuu;Kehys-Kainuun seutukunta;2 359;2 598.71;2 461.21;1
+623;Puumala;kunta;suomi;Puumalan kirkonkylä;Etelä-Savo;Mikkelin seutukunta;2 108;1 237.75;794.11;2.7
+624;Pyhtää;kunta;suomi. ruotsi;Siltakylä;Kymenlaakso;Kotka–Haminan seutukunta;5 065;336.40;324.63;15.6
+625;Pyhäjoki;kunta;suomi;Pyhäjoen kirkonkylä;Pohjois-Pohjanmaa;Raahen seutukunta;2 980;549.21;543.21;5.5
+626;Pyhäjärvi;kaupunki;suomi;Pyhäsalmi;Pohjois-Pohjanmaa;Nivala–Haapajärven seutukunta;4 756;1 459.00;1 310.31;3.6
+630;Pyhäntä;kunta;suomi;Pyhännän kirkonkylä;Pohjois-Pohjanmaa;Haapaveden-Siikalatvan seutukunta;1 646;846.75;810.20;2
+631;Pyhäranta;kunta;suomi;Rohdainen;Varsinais-Suomi;Vakka-Suomen seutukunta;1 930;148.38;143.51;13.4
+635;Pälkäne;kunta;suomi;Onkkaala;Pirkanmaa;Tampereen seutukunta;6 337;738.12;560.72;11.3
+636;Pöytyä;kunta;suomi;Kyrö ja Riihikoski;Varsinais-Suomi;Loimaan seutukunta;8 130;773.55;749.95;10.8
+678;Raahe;kaupunki;suomi;Raahen keskustaajama;Pohjois-Pohjanmaa;Raahen seutukunta;23 797;1 028.22;1 015.33;23.4
+710;Raasepori;kaupunki;ruotsi. suomi;Tammisaaren keskustaajama;Uusimaa;Raaseporin seutukunta;27 209;1 215.45;1 148.34;23.7
+680;Raisio;kaupunki;suomi;Raision keskustaajama[16];Varsinais-Suomi;Turun seutukunta;25 331;49.34;48.76;519.5
+681;Rantasalmi;kunta;suomi;Rantasalmen kirkonkylä;Etelä-Savo;Savonlinnan seutukunta;3 297;925.18;559.31;5.9
+683;Ranua;kunta;suomi;Ranuan kirkonkylä;Lappi;Rovaniemen seutukunta;3 599;3 694.79;3 453.39;1
+684;Rauma;kaupunki;suomi;Rauman keskustaajama;Satakunta;Rauman seutukunta;38 832;510.10;496.35;78.2
+686;Rautalampi;kunta;suomi;Rautalammin kirkonkylä;Pohjois-Savo;Sisä-Savon seutukunta;2 933;761.99;538.96;5.4
+687;Rautavaara;kunta;suomi;Rautavaaran kirkonkylä;Pohjois-Savo;Koillis-Savon seutukunta;1 424;1 235.25;1 150.64;1.2
+689;Rautjärvi;kunta;suomi;Simpele;Etelä-Karjala;Imatran seutukunta;3 032;401.90;351.47;8.6
+691;Reisjärvi;kunta;suomi;Reisjärven kirkonkylä;Pohjois-Pohjanmaa;Nivala–Haapajärven seutukunta;2 598;503.32;474.62;5.5
+694;Riihimäki;kaupunki;suomi;Riihimäen keskustaajama;Kanta-Häme;Riihimäen seutukunta;28 483;125.55;121.01;235.4
+697;Ristijärvi;kunta;suomi;Ristijärven kirkonkylä;Kainuu;Kajaanin seutukunta;1 164;897.94;835.80;1.4
+698;Rovaniemi;kaupunki;suomi;Rovaniemen keskustaajama;Lappi;Rovaniemen seutukunta;65 286;8 016.62;7 581.37;8.6
+700;Ruokolahti;kunta;suomi;Rasila;Etelä-Karjala;Imatran seutukunta;4 758;1 219.85;942.10;5.1
+702;Ruovesi;kunta;suomi;Ruoveden kirkonkylä;Pirkanmaa;Ylä-Pirkanmaan seutukunta;4 124;950.17;776.99;5.3
+704;Rusko;kunta;suomi;Ruskon kirkonkylä[16];Varsinais-Suomi;Turun seutukunta;6 436;127.90;127.16;50.6
+707;Rääkkylä;kunta;suomi;Rääkkylän kirkonkylä;Pohjois-Karjala;Keski-Karjalan seutukunta;1 902;699.68;427.78;4.4
+729;Saarijärvi;kaupunki;suomi;Saarijärven keskustaajama;Keski-Suomi;Saarijärven–Viitasaaren seutukunta;8 847;1 422.72;1 251.72;7.1
+732;Salla;kunta;suomi;Sallan kirkonkylä;Lappi;Itä-Lapin seutukunta;3 344;5 872.41;5 729.83;0.6
+734;Salo;kaupunki;suomi;Salon keskustaajama;Varsinais-Suomi;Salon seutukunta;51 100;2 061.84;1 987.47;25.7
+736;Saltvik;kunta;ruotsi;Nääs[24];Ahvenanmaa;Ålands landsbygd;1 791;159.62;152.25;11.8
+790;Sastamala;kaupunki;suomi;Vammalan keskustaajama;Pirkanmaa;Lounais-Pirkanmaan seutukunta;23 515;1 531.74;1 429.15;16.5
+738;Sauvo;kunta;suomi;Sauvon kirkonkylä;Varsinais-Suomi;Turun seutukunta;2 974;253.97;252.74;11.8
+739;Savitaipale;kunta;suomi;Savitaipaleen kirkonkylä;Etelä-Karjala;Lappeenrannan seutukunta;3 216;690.56;539.12;6
+740;Savonlinna;kaupunki;suomi;Savonlinnan keskustaajama;Etelä-Savo;Savonlinnan seutukunta;31 843;3 597.69;2 238.11;14.2
+742;Savukoski;kunta;suomi;Savukosken kirkonkylä;Lappi;Itä-Lapin seutukunta;978;6 496.57;6 440.01;0.15
+743;Seinäjoki;kaupunki;suomi;Seinäjoen keskustaajama;Etelä-Pohjanmaa;Seinäjoen seutukunta;66 160;1 469.22;1 431.77;46.2
+746;Sievi;kunta;suomi;Sievin kirkonkylä;Pohjois-Pohjanmaa;Ylivieskan seutukunta;4 713;799.88;786.40;6
+747;Siikainen;kunta;suomi;Siikaisten kirkonkylä;Satakunta;Pohjois-Satakunnan seutukunta;1 283;491.31;463.30;2.8
+748;Siikajoki;kunta;suomi;Ruukki;Pohjois-Pohjanmaa;Raahen seutukunta;4 837;1 062.61;1 053.89;4.6
+791;Siikalatva;kunta;suomi;Pulkkilan kirkonkylä;Pohjois-Pohjanmaa;Haapaveden-Siikalatvan seutukunta;4 931;2 229.88;2 173.27;2.3
+749;Siilinjärvi;kunta;suomi;Siilinjärven kirkonkylä;Pohjois-Savo;Kuopion seutukunta;21 290;507.81;400.97;53.1
+751;Simo;kunta;suomi;Simon asemanseutu;Lappi;Kemi–Tornion seutukunta;2 828;1 466.55;1 446.59;2
+753;Sipoo;kunta;suomi. ruotsi;Nikkilä[7];Uusimaa;Helsingin seutukunta;22 595;342.67;339.67;66.5
+755;Siuntio;kunta;suomi. ruotsi;Siuntion asemanseutu;Uusimaa;Helsingin seutukunta;6 158;249.95;241.11;25.5
+758;Sodankylä;kunta;suomi. pohjoissaame;Sodankylän kirkonkylä;Lappi;Pohjois-Lapin seutukunta;8 126;12 415.32;11 692.96;0.7
+759;Soini;kunta;suomi;Soinin kirkonkylä;Etelä-Pohjanmaa;Kuusiokuntien seutukunta;1 873;574.22;551.95;3.4
+761;Somero;kaupunki;suomi;Someron keskustaajama;Varsinais-Suomi;Salon seutukunta;8 410;697.68;667.98;12.6
+762;Sonkajärvi;kunta;suomi;Sonkajärven kirkonkylä;Pohjois-Savo;Ylä-Savon seutukunta;3 637;1 576.79;1 465.93;2.5
+765;Sotkamo;kunta;suomi;Sotkamon kirkonkylä[25];Kainuu;Kajaanin seutukunta;10 274;2 951.84;2 648.97;3.9
+766;Sottunga;kunta;ruotsi;Sottunga;Ahvenanmaa;Ålands skärgård;115;28.06;28.04;4.1
+768;Sulkava;kunta;suomi;Sulkavan kirkonkylä;Etelä-Savo;Savonlinnan seutukunta;2 368;769.20;584.47;4.1
+771;Sund;kunta;ruotsi;Björby;Ahvenanmaa;Ålands landsbygd;995;112.49;108.20;9.2
+777;Suomussalmi;kunta;suomi;Ämmänsaari;Kainuu;Kehys-Kainuun seutukunta;7 172;5 857.59;5 270.43;1.4
+778;Suonenjoki;kaupunki;suomi;Suonenjoen keskustaajama;Pohjois-Savo;Sisä-Savon seutukunta;6 708;862.34;713.56;9.4
+781;Sysmä;kunta;suomi;Sysmän kirkonkylä;Päijät-Häme;Lahden seutukunta;3 496;936.07;666.22;5.2
+783;Säkylä;kunta;suomi;Säkylän kirkonkylä;Satakunta;Rauman seutukunta;6 377;527.81;406.85;15.7
+831;Taipalsaari;kunta;suomi;Taipalsaaren kirkonkylä;Etelä-Karjala;Lappeenrannan seutukunta;4 625;761.95;344.69;13.4
+832;Taivalkoski;kunta;suomi;Taivalkosken kirkonkylä;Pohjois-Pohjanmaa;Koillismaan seutukunta;3 731;2 650.61;2 438.21;1.5
+833;Taivassalo;kunta;suomi;Taivassalon kirkonkylä;Varsinais-Suomi;Vakka-Suomen seutukunta;1 705;142.00;140.33;12.1
+834;Tammela;kunta;suomi;Tammelan kirkonkylä[13];Kanta-Häme;Forssan seutukunta;5 844;715.15;640.61;9.1
+837;Tampere;kaupunki;suomi;Tampereen keskustaajama;Pirkanmaa;Tampereen seutukunta;255 050;689.59;524.89;485.9
+844;Tervo;kunta;suomi;Tervon kirkonkylä;Pohjois-Savo;Sisä-Savon seutukunta;1 412;494.30;347.75;4.1
+845;Tervola;kunta;suomi;Tervolan kirkonkylä;Lappi;Kemi–Tornion seutukunta;2 831;1 592.05;1 559.71;1.8
+846;Teuva;kunta;suomi;Teuvan kirkonkylä;Etelä-Pohjanmaa;Suupohjan seutukunta;4 758;556.05;554.73;8.6
+848;Tohmajärvi;kunta;suomi;Kemie;Pohjois-Karjala;Keski-Karjalan seutukunta;4 066;895.36;837.75;4.9
+849;Toholampi;kunta;suomi;Toholammin kirkonkylä;Keski-Pohjanmaa;Kaustisen seutukunta;2 849;617.05;608.98;4.7
+850;Toivakka;kunta;suomi;Toivakan kirkonkylä;Keski-Suomi;Jyväskylän seutukunta;2 368;413.94;361.46;6.6
+851;Tornio;kaupunki;suomi;Tornion keskustaajama;Lappi;Kemi–Tornion seutukunta;21 018;1 227.86;1 188.70;17.7
+853;Turku;kaupunki;suomi. ruotsi;Turun keskustaajama;Varsinais-Suomi;Turun seutukunta;201 863;249.10;245.63;821.8
+857;Tuusniemi;kunta;suomi;Tuusniemen kirkonkylä;Pohjois-Savo;Koillis-Savon seutukunta;2 313;699.42;543.18;4.3
+858;Tuusula;kunta;suomi;Hyrylä[7];Uusimaa;Helsingin seutukunta;41 338;225.45;219.53;188.3
+859;Tyrnävä;kunta;suomi;Tyrnävän kirkonkylä;Pohjois-Pohjanmaa;Oulun seutukunta;6 525;494.87;491.82;13.3
+886;Ulvila;kaupunki;suomi;Vanhakylä[8];Satakunta;Porin seutukunta;12 533;422.51;400.82;31.3
+887;Urjala;kunta;suomi;Urjalan kirkonkylä;Pirkanmaa;Etelä-Pirkanmaan seutukunta;4 568;505.41;475.53;9.6
+889;Utajärvi;kunta;suomi;Utajärven kirkonkylä;Pohjois-Pohjanmaa;Oulunkaaren seutukunta;2 491;1 735.02;1 669.47;1.5
+890;Utsjoki;kunta;suomi. pohjoissaame;Utsjoen kirkonkylä;Lappi;Pohjois-Lapin seutukunta;1 139;5 372.00;5 146.08;0.2
+892;Uurainen;kunta;suomi;Uuraisten kirkonkylä;Keski-Suomi;Jyväskylän seutukunta;3 615;372.25;347.98;10.4
+893;Uusikaarlepyy;kaupunki;ruotsi. suomi;Uudenkaarlepyyn keskustaajama;Pohjanmaa;Jakobstadsregionen;7 500;737.21;732.71;10.2
+895;Uusikaupunki;kaupunki;suomi;Uudenkaupungin keskustaajama;Varsinais-Suomi;Vakka-Suomen seutukunta;14 938;551.53;503.20;29.7
+785;Vaala;kunta;suomi;Vaalan kirkonkylä;Pohjois-Pohjanmaa;Oulunkaaren seutukunta;2 589;1 763.57;1 302.38;2
+905;Vaasa;kaupunki;suomi. ruotsi;Vaasan keskustaajama;Pohjanmaa;Vaasan seutukunta;68 956;369.54;364.73;189.1
+908;Valkeakoski;kaupunki;suomi;Valkeakosken keskustaajama;Pirkanmaa;Etelä-Pirkanmaan seutukunta;20 694;372.03;272.05;76.1
+092;Vantaa;kaupunki;suomi. ruotsi;Tikkurila[7];Uusimaa;Helsingin seutukunta;247 443;240.35;238.38;1 038
+911;Valtimo;kunta;suomi;;Pohjois-Karjala;
+915;Varkaus;kaupunki;suomi;Varkauden keskustaajama;Pohjois-Savo;Varkauden seutukunta;19 727;524.48;385.62;51.2
+918;Vehmaa;kunta;suomi;Vinkkilä;Varsinais-Suomi;Vakka-Suomen seutukunta;2 245;192.06;188.88;11.9
+921;Vesanto;kunta;suomi;Vesannon kirkonkylä;Pohjois-Savo;Sisä-Savon seutukunta;1 895;569.81;422.63;4.5
+922;Vesilahti;kunta;suomi;Vesilahden kirkonkylä;Pirkanmaa;Tampereen seutukunta;4 469;353.93;301.04;14.8
+924;Veteli;kunta;suomi;Kainu[26];Keski-Pohjanmaa;Kaustisen seutukunta;2 936;520.91;502.13;5.8
+925;Vieremä;kunta;suomi;Vieremän kirkonkylä;Pohjois-Savo;Ylä-Savon seutukunta;3 387;973.38;925.28;3.7
+927;Vihti;kunta;suomi;Nummela;Uusimaa;Helsingin seutukunta;28 811;567.06;522.01;55.2
+931;Viitasaari;kaupunki;suomi;Viitasaaren keskustaajama;Keski-Suomi;Saarijärven–Viitasaaren seutukunta;5 877;1 589.12;1 248.54;4.7
+934;Vimpeli;kunta;suomi;Vimpelin kirkonkylä;Etelä-Pohjanmaa;Järviseudun seutukunta;2 656;328.79;287.32;9.2
+935;Virolahti;kunta;suomi;Virojoki;Kymenlaakso;Kotka–Haminan seutukunta;2 927;376.24;371.99;7.9
+936;Virrat;kaupunki;suomi;Virtain keskustaajama;Pirkanmaa;Ylä-Pirkanmaan seutukunta;6 275;1 299.07;1 162.68;5.4
+941;Vårdö;kunta;ruotsi;Vårdö;Ahvenanmaa;Ålands skärgård;471;102.10;101.71;4.6
+946;Vöyri;kunta;ruotsi. suomi;Vöyrin kirkonkylä;Pohjanmaa;Vaasan seutukunta;6 291;791.33;782.14;8
+976;Ylitornio;kunta;suomi;Ylitornion kirkonkylä;Lappi;Torniolaakson seutukunta;3 765;2 212.77;2 028.29;1.9
+977;Ylivieska;kaupunki;suomi;Ylivieskan keskustaajama;Pohjois-Pohjanmaa;Ylivieskan seutukunta;15 369;574.20;569.83;27
+980;Ylöjärvi;kaupunki;suomi;Ylöjärven kirkonkylä[17];Pirkanmaa;Tampereen seutukunta;33 677;1 323.96;1 115.75;30.2
+981;Ypäjä;kunta;suomi;Ypäjän kirkonkylä;Kanta-Häme;Forssan seutukunta;2 207;183.25;182.76;12.1
+989;Ähtäri;kaupunki;suomi;Ähtärin keskustaajama;Etelä-Pohjanmaa;Kuusiokuntien seutukunta;5 316;910.87;805.82;6.6
+992;Äänekoski;kaupunki;suomi;Äänekosken keskustaajama;Keski-Suomi;Äänekosken seutukunta;17 971;1 13
